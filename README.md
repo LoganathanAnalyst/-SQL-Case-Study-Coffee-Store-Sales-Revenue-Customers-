@@ -66,6 +66,9 @@ coffee_analysis.sql
 database/
 results/
 project_notes/
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zjc2ZhYWFmMWVibWtqeHRhN3M5dzEzdjIwbHA3azhyZTZjd29oZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o72F8t9TDi2xVnxOE/giphy.gif" width="800" />
+</p>
 
 ▶️ How to Use
 1. Import database
