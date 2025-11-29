@@ -1,1 +1,19 @@
+1.This project analyzes a Coffee Store dataset using SQL to uncover key business insights.
 
+2.It explores city-level performance, customer patterns, and market potential.
+
+3.Includes advanced SQL such as Joins, CTEs, Window Functions, Aggregations, and date logic.
+
+4.Provides insights on revenue trends, product demand, and customer distribution.
+
+5.Calculates estimated coffee consumers across cities using population data.
+
+6.Identifies top-selling products, least-selling items, and city-specific bestsellers.
+
+7.Measures monthly growth, quarterly revenue, and high-performing regions.
+
+8.Combines data from multiple tables to generate actionable business insights.
+
+9.Designed as a full portfolio-ready SQL case study for analytics roles.
+
+10.A great project to demonstrate real-world SQL, BI thinking, and data storytelling.
