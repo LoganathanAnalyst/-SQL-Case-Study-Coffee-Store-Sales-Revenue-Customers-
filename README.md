@@ -1,16 +1,12 @@
 ☕ Coffee Store SQL Analytics — With Logo & Badges
-Project Logo
-[Logo Placeholder — Insert Image Here]
-(Use URL inside README)
-https://img.icons8.com/?size=256&id=23266&format=png
-Badges
-Badge URLs (GitHub will render them automatically):
 
-https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Analytics-Data%20Insights-green?style=for-the-badge&logo=google-analytics&logoColor=white
-https://img.shields.io/badge/CTEs-WINDOW%20FUNCTIONS-purple?style=for-the-badge
-https://img.shields.io/badge/Business-Case%20Study-red?style=for-the-badge
+<p align="center">
+  <img src="https://img.icons8.com/?size=256&id=23266&format=png" width="120" />
+</p>
+
+<h1 align="center">☕ Coffee Store SQL Analytics 📊</h1>
+<p align="center">Data Exploration • Sales Analytics • Market Insights</p>
+
 
 📊 A complete SQL portfolio project performing exploration, analysis, and business insights on a Coffee Store dataset.
 
