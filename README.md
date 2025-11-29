@@ -1,4 +1,4 @@
-☕ Coffee Store SQL Analytics — With Logo & Badges
+☕ Coffee Store SQL Analytics 
 
 <p align="center">
   <img src="https://img.icons8.com/?size=256&id=23266&format=png" width="120" />
@@ -50,6 +50,16 @@ This project analyzes a Coffee Store dataset to extract insights about customer 
 - Market potential vs customers
 - Rent vs spending behavior
 - Top 3 cities by performance
+
+BADGES
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-Data%20Insights-green?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTEs-WINDOW%20FUNCTIONS-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business-Case%20Study-red?style=for-the-badge" />
+</p>
+
 
 📂 Repository Contents
 coffee_analysis.sql
