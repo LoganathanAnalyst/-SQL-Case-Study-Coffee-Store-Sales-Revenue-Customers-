@@ -12,13 +12,13 @@
 
 🔍 Project Overview
 This project analyzes a Coffee Store dataset to extract insights about customer behavior, product performance, market size, and revenue trends across cities.
-
+________________________________________________________________________________________________________________________________________________________________________
 🏗️ Database Structure
 1. city – population, estimated rent, city ranking
 2. customers – customer details and associated city
 3. products – product names and pricing
 4. sales – transaction details, totals & ratings
-
+________________________________________________________________________________________________________________________________________________________________________
 🎯 Key Objectives
 
 1️⃣ City Insights
@@ -50,7 +50,7 @@ This project analyzes a Coffee Store dataset to extract insights about customer 
 - Market potential vs customers
 - Rent vs spending behavior
 - Top 3 cities by performance
-
+________________________________________________________________________________________________________________________________________________________________________
 BADGES
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -60,15 +60,13 @@ BADGES
   <img src="https://img.shields.io/badge/Business-Case%20Study-red?style=for-the-badge" />
 </p>
 
-
+________________________________________________________________________________________________________________________________________________________________________
 📂 Repository Contents
 coffee_analysis.sql
 database/
 results/
 project_notes/
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zjc2ZhYWFmMWVibWtqeHRhN3M5dzEzdjIwbHA3azhyZTZjd29oZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o72F8t9TDi2xVnxOE/giphy.gif" width="800" />
-</p>
+________________________________________________________________________________________________________________________________________________________________________
 
 ▶️ How to Use
 1. Import database
@@ -76,6 +74,7 @@ project_notes/
 3. Load dataset
 4. Run queries
 5. Review insights
-
+________________________________________________________________________________________________________________________________________________________________________
 👨‍💻 About the Author
-Hi, I’m Loganathan, a Data Analyst & Power BI Developer.
+Hi, I’m Loganathan, a Data Analyst & Power BI Developer passionate about transforming data into meaningful insights.
+Thank you for exploring this project — Happy Learning! 🎉📚
