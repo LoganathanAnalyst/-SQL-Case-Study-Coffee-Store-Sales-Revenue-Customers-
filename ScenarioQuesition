@@ -1,0 +1,46 @@
+Q1. Coffee Consumers Count
+How many people in each city are estimated to consume coffee, given that 25% of the population does?
+
+Q2. Total Revenue from Coffee Sales
+What is the total revenue generated from coffee sales across all cities in the last quarter (Q4) of 2023?
+Also break it down by each city.
+
+Q3. Sales Count for Each Product
+How many units of each coffee product have been sold?
+
+Q4. Average Sales Amount per City
+What is the average sales amount per customer in each city?
+(Using total sales ÷ unique customers)
+
+Q5. City Population & Estimated Coffee Consumers
+Provide a list of cities with:
+
+populationestimated coffee consumers (25% of population)
+
+total unique current customers from each city
+
+Q6. Top Selling Products by City
+What are the top 3 selling products in each city based on sales volume?
+
+Q7. Customer Segmentation by City
+How many unique customers bought coffee products in each city?
+
+Q8. Average Sale vs Rent Analysis For each city, find:
+
+average sale per customer
+estimated rent
+rent per customer
+
+Q9. Monthly Sales Growth
+Calculate the percentage monthly sales growth for each city using previous month's sales.
+
+Q10. Market Potential Analysis
+ Identify top 3 cities based on highest total sales, returning:
+ city name
+ total sales
+ total rent
+ total customers
+ estimated coffee consumers
+ average sale per customer
+
+average rent per customer
