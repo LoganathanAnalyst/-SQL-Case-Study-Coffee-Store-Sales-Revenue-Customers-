@@ -75,6 +75,12 @@ ________________________________________________________________________________
 4. Run queries
 5. Review insights
 ________________________________________________________________________________________________________________________________________________________________________
+🤝 Contributing Have ideas to improve this dashboard? Feel free to open issues or submit pull requests.
+
+⭐ Support This Project
+
+If you found this dashboard useful, please star ⭐ the repository. Your support motivates further improvements!
+
 👨‍💻 About the Author
 Hi, I’m Loganathan, a Data Analyst & Power BI Developer passionate about transforming data into meaningful insights.
 Thank you for exploring this project — Happy Learning! 🎉📚
