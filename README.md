@@ -17,7 +17,7 @@ ________________________________________________________________________________
 1. city – population, estimated rent, city ranking
 2. customers – customer details and associated city
 3. products – product names and pricing
-4. sales – transaction details, totals & ratings
+4. sales – transaction details, totals & ratings.
 ________________________________________________________________________________________________________________________________________________________________________
 🎯 Key Objectives
 
